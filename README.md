@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/xsu6to8/leetcode/tree/master/0001-two-sum) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/xsu6to8/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -59,5 +61,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xsu6to8/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
