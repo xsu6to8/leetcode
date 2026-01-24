@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/xsu6to8/leetcode/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/xsu6to8/leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/xsu6to8/leetcode/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/xsu6to8/leetcode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/xsu6to8/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/xsu6to8/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/xsu6to8/leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/xsu6to8/leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/xsu6to8/leetcode/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
