@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/xsu6to8/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/xsu6to8/leetcode/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/xsu6to8/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/xsu6to8/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/xsu6to8/leetcode/tree/master/0217-contains-duplicate) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/xsu6to8/leetcode/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/xsu6to8/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/xsu6to8/leetcode/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/xsu6to8/leetcode/tree/master/0118-pascals-triangle) |
 ## Memoization
 |  |
 | ------- |
