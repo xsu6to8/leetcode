@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/xsu6to8/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/xsu6to8/leetcode/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/xsu6to8/leetcode/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/xsu6to8/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xsu6to8/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/xsu6to8/leetcode/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0190-reverse-bits](https://github.com/xsu6to8/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xsu6to8/leetcode/tree/master/0191-number-of-1-bits) |
 ## Trie
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/xsu6to8/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/xsu6to8/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xsu6to8/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/xsu6to8/leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
@@ -217,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/xsu6to8/leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/xsu6to8/leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/xsu6to8/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/xsu6to8/leetcode/tree/master/0112-path-sum) |
 ## Breadth-First Search
 |  |
@@ -237,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
