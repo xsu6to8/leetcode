@@ -1,7 +1,19 @@
 func majorityElement(nums []int) int {
-    sort.Slice(nums, func(i, j int) bool {
-        return nums[i] < nums[j]
-    })
+    candidate := 0 
+    count := 0     
 
-    return nums[len(nums) / 2]
+    for _, num := range nums {
+        if count == 0 {
+            candidate = num
+        }
+        
+        if num == candidate {
+            count++
+        } else {
+            count--
+        }
+    }
+
+    return candidate
+    // linear search & O(1) space
 }
