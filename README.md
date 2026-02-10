@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xsu6to8/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/xsu6to8/leetcode/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xsu6to8/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xsu6to8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0141-linked-list-cycle](https://github.com/xsu6to8/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/xsu6to8/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xsu6to8/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/xsu6to8/leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/xsu6to8/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/xsu6to8/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -195,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/xsu6to8/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/xsu6to8/leetcode/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/xsu6to8/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/xsu6to8/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/xsu6to8/leetcode/tree/master/0191-number-of-1-bits) |
 ## Trie
