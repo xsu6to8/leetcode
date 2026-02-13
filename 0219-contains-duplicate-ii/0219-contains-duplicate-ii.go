@@ -10,7 +10,7 @@ func containsNearbyDuplicate(nums []int, k int) bool {
             if i - val <= k {
                 return true
             }
-            nMap[nums[i]] = i
+            nMap[nums[i]] = i   // 3. 나왔지만 k보다 큰 차이 -> 후에 나온 idx로 교체
         }
     }
 
