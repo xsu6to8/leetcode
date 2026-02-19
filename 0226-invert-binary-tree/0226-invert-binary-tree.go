@@ -7,21 +7,13 @@
  * }
  */
 func invertTree(root *TreeNode) *TreeNode {
-    invert(root)
-
-    return root
-}
-
-func invert(node *TreeNode) {
-    // base condition : 리프는 그냥 탈출
-    if node == nil {
-        return
+    // Base condition
+    if root == nil {
+        return nil
     }
 
-    tmpNode := node.Left
-    node.Left = node.Right
-    node.Right = tmpNode
+    // Go의 다중 할당을 이용해 스왑과 재귀 호출을 한 번에 처리
+    root.Left, root.Right = invertTree(root.Right), invertTree(root.Left)
 
-    invert(node.Left)
-    invert(node.Right)
+    return root
 }
