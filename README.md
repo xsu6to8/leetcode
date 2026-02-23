@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/xsu6to8/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/xsu6to8/leetcode/tree/master/0258-add-digits) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xsu6to8/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/xsu6to8/leetcode/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/xsu6to8/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/xsu6to8/leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/xsu6to8/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/xsu6to8/leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
@@ -347,4 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1114-print-in-order](https://github.com/xsu6to8/leetcode/tree/master/1114-print-in-order) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/xsu6to8/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
