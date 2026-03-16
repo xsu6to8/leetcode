@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1251-average-selling-price](https://github.com/xsu6to8/leetcode/tree/master/1251-average-selling-price) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/xsu6to8/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/xsu6to8/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1407-top-travellers](https://github.com/xsu6to8/leetcode/tree/master/1407-top-travellers) |
 | [1757-recyclable-and-low-fat-products](https://github.com/xsu6to8/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
