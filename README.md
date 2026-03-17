@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/xsu6to8/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xsu6to8/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/xsu6to8/leetcode/tree/master/0290-word-pattern) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/xsu6to8/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/xsu6to8/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/xsu6to8/leetcode/tree/master/0257-binary-tree-paths) |
+| [0290-word-pattern](https://github.com/xsu6to8/leetcode/tree/master/0290-word-pattern) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/xsu6to8/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
