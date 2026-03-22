@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/xsu6to8/leetcode/tree/master/1407-top-travellers) |
 | [1484-group-sold-products-by-the-date](https://github.com/xsu6to8/leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/xsu6to8/leetcode/tree/master/1517-find-users-with-valid-e-mails) |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/xsu6to8/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1757-recyclable-and-low-fat-products](https://github.com/xsu6to8/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 ## Simulation
 |  |
