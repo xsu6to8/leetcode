@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/xsu6to8/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/xsu6to8/leetcode/tree/master/0292-nim-game) |
+| [0326-power-of-three](https://github.com/xsu6to8/leetcode/tree/master/0326-power-of-three) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/xsu6to8/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/xsu6to8/leetcode/tree/master/0326-power-of-three) |
 ## Sliding Window
 |  |
 | ------- |
