@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/xsu6to8/leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/xsu6to8/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/xsu6to8/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/xsu6to8/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/xsu6to8/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/xsu6to8/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 ## Sliding Window
 |  |
 | ------- |
