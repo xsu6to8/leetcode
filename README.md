@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/xsu6to8/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/xsu6to8/leetcode/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/xsu6to8/leetcode/tree/master/0401-binary-watch) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/xsu6to8/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/xsu6to8/leetcode/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/xsu6to8/leetcode/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/xsu6to8/leetcode/tree/master/0401-binary-watch) |
 ## Combinatorics
 |  |
 | ------- |
