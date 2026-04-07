@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/xsu6to8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/xsu6to8/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/xsu6to8/leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xsu6to8/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1768-merge-strings-alternately](https://github.com/xsu6to8/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Math
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/xsu6to8/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/xsu6to8/leetcode/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xsu6to8/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/xsu6to8/leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/xsu6to8/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/xsu6to8/leetcode/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/xsu6to8/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 ## Sorting
 |  |
