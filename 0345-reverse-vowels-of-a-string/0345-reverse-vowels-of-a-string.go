@@ -1,25 +1,40 @@
 func reverseVowels(s string) string {
-    vMap := map[rune]bool{
+    vowels := map[byte]bool{
         'A': true, 'E': true, 'I': true, 'O': true, 'U': true,
         'a': true, 'e': true, 'i': true, 'o': true, 'u': true,
     }
 
-    res := []rune(s) 
+    //  Go에서 string은 직접 수정 불가 -> byte 슬라이스로 변환
+    bs := []byte(s)
+
+    l, r := 0, len(bs) - 1
+    possibleL, possibleR := false, false
     
-    l, r := 0, len(res)-1
-    for l < r {
-        for l < r && vMap[res[l]] == false {
+    for l < r { 
+        if vowels[bs[l]] {
+            possibleL = true
+        } else {
             l++
         }
 
-        for l < r && vMap[res[r]] == false {
+        if vowels[bs[r]] {
+            possibleR = true
+        } else {
             r--
-        } 
-        
-        res[l], res[r] = res[r], res[l]
-        l++
-        r--
-    }
-    
-    return string(res)
+        }
+
+        // 둘 다 모음을 찾음 -> swap
+        if possibleL && possibleR {
+            tmp := bs[l]
+            bs[l] = bs[r]
+            bs[r] = tmp
+            
+            l++
+            r--
+            possibleL = false
+            possibleR = false
+        }
+    } 
+
+    return string(bs)
 }
