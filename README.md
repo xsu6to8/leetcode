@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
+| [0724-find-pivot-index](https://github.com/xsu6to8/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xsu6to8/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xsu6to8/leetcode/tree/master/0739-daily-temperatures) |
 | [1207-unique-number-of-occurrences](https://github.com/xsu6to8/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -479,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/xsu6to8/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0724-find-pivot-index](https://github.com/xsu6to8/leetcode/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/xsu6to8/leetcode/tree/master/1732-find-the-highest-altitude) |
 ## Data Stream
 |  |
