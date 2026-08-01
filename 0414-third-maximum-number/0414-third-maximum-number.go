@@ -18,15 +18,17 @@ func thirdMax(nums []int) int {
     thi := math.MinInt 
     for _, v := range removedDups {
         if v > fir {
-            tmpFir := fir
-            fir = v
-            tmpSec := sec
-            sec = tmpFir
-            thi = tmpSec
+            // tmpFir := fir
+            // fir = v
+            // tmpSec := sec
+            // sec = tmpFir
+            // thi = tmpSec
+            fir, sec, thi = v, fir, sec
         } else if v < fir && v > sec {
-            tmpSec := sec
-            sec = v
-            thi = tmpSec
+            // tmpSec := sec
+            // sec = v
+            // thi = tmpSec
+            sec, thi = v, sec
         } else if v < sec && v > thi {
             thi = v
         }     
