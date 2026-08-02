@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/xsu6to8/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/xsu6to8/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/xsu6to8/leetcode/tree/master/0415-add-strings) |
+| [0434-number-of-segments-in-a-string](https://github.com/xsu6to8/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xsu6to8/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1768-merge-strings-alternately](https://github.com/xsu6to8/leetcode/tree/master/1768-merge-strings-alternately) |
