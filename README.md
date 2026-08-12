@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/xsu6to8/leetcode/tree/master/0455-assign-cookies) |
 | [0463-island-perimeter](https://github.com/xsu6to8/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/xsu6to8/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0495-teemo-attacking](https://github.com/xsu6to8/leetcode/tree/master/0495-teemo-attacking) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/xsu6to8/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/xsu6to8/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/xsu6to8/leetcode/tree/master/0415-add-strings) |
+| [0495-teemo-attacking](https://github.com/xsu6to8/leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/xsu6to8/leetcode/tree/master/0735-asteroid-collision) |
 | [1441-build-an-array-with-stack-operations](https://github.com/xsu6to8/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/xsu6to8/leetcode/tree/master/1929-concatenation-of-array) |
