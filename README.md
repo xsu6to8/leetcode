@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/xsu6to8/leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/xsu6to8/leetcode/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/xsu6to8/leetcode/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/xsu6to8/leetcode/tree/master/0492-construct-the-rectangle) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Bit Manipulation
 |  |
