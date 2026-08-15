@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/xsu6to8/leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/xsu6to8/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/xsu6to8/leetcode/tree/master/0495-teemo-attacking) |
+| [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/xsu6to8/leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/xsu6to8/leetcode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/xsu6to8/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/xsu6to8/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/xsu6to8/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0735-asteroid-collision](https://github.com/xsu6to8/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xsu6to8/leetcode/tree/master/0739-daily-temperatures) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/xsu6to8/leetcode/tree/master/0739-daily-temperatures) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/xsu6to8/leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Linked List
