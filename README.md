@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/xsu6to8/leetcode/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/xsu6to8/leetcode/tree/master/0500-keyboard-row) |
+| [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/xsu6to8/leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/xsu6to8/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/xsu6to8/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsu6to8/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -552,4 +554,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/xsu6to8/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
