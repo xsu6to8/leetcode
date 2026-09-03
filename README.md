@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/xsu6to8/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/xsu6to8/leetcode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/xsu6to8/leetcode/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
+| [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/xsu6to8/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -309,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/xsu6to8/leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/xsu6to8/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/xsu6to8/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+| [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Stack
 |  |
@@ -533,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/xsu6to8/leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0409-longest-palindrome](https://github.com/xsu6to8/leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/xsu6to8/leetcode/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 ## Concurrency
 |  |
