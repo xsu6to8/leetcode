@@ -15,7 +15,7 @@ func findTilt(root *TreeNode) int {
             return 0
         }
         // leaf 도달
-        if node.Left == nil && node.Right == node {
+        if node.Left == nil && node.Right == nil {
             return node.Val
         }
         
