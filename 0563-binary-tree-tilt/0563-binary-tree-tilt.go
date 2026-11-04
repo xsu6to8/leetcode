@@ -14,10 +14,6 @@ func findTilt(root *TreeNode) int {
         if node == nil {
             return 0
         }
-        // leaf 도달
-        if node.Left == nil && node.Right == nil {
-            return node.Val
-        }
         
         // post-order traverse
         leftSum := traverse(node.Left)
