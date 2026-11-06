@@ -38,6 +38,9 @@ func isSubtree(root *TreeNode, subRoot *TreeNode) bool {
 
         if node.Val == subRoot.Val {
             result = isSame(node, subRoot)
+            if result == true {
+                return result
+            }
         }
 
         left := preOrder(node.Left)
