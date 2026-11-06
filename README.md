@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/xsu6to8/leetcode/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/xsu6to8/leetcode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
+| [0575-distribute-candies](https://github.com/xsu6to8/leetcode/tree/master/0575-distribute-candies) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/xsu6to8/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/xsu6to8/leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/xsu6to8/leetcode/tree/master/0500-keyboard-row) |
+| [0575-distribute-candies](https://github.com/xsu6to8/leetcode/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/xsu6to8/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/xsu6to8/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
