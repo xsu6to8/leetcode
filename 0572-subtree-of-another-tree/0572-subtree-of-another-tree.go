@@ -29,8 +29,8 @@ func isSubtree(root *TreeNode, subRoot *TreeNode) bool {
         return resLeft && resRight
     }
 
-    var inOrder func(node *TreeNode) bool
-    inOrder = func(node *TreeNode) bool {
+    var preOrder func(node *TreeNode) bool
+    preOrder = func(node *TreeNode) bool {
         result := false
         if node == nil {
             return false
@@ -40,11 +40,11 @@ func isSubtree(root *TreeNode, subRoot *TreeNode) bool {
             result = isSame(node, subRoot)
         }
 
-        left := inOrder(node.Left)
+        left := preOrder(node.Left)
         if left == true {
             return left
         }
-        right := inOrder(node.Right)
+        right := preOrder(node.Right)
         if right == true {
             return right
         }
@@ -52,7 +52,7 @@ func isSubtree(root *TreeNode, subRoot *TreeNode) bool {
         return result
     }
 
-    res := inOrder(root)
+    res := preOrder(root)
 
     return res
 }
