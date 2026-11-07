@@ -16,9 +16,6 @@ func preorder(root *Node) []int {
         res = append(res, node.Val)
 
         for _, childNode := range node.Children {
-            if childNode == nil {
-                break
-            }
             traverse(childNode)
         }
     }
