@@ -1,12 +1,9 @@
-func moveZeroes(nums []int)  {
-    pos := 0
-    for i := 0; i < len(nums); i++ {
-        if nums[i] != 0 {
-            nums[pos] = nums[i] 
-            pos++
-        } 
-    }
-    for ; pos < len(nums); pos++ {
-        nums[pos] = 0
+func moveZeroes(nums []int) {
+    slow := 0
+    for fast := 0; fast < len(nums); fast++ {
+        if nums[fast] != 0 {
+            nums[slow], nums[fast] = nums[fast], nums[slow]
+            slow++
+        }
     }
 }
