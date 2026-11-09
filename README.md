@@ -275,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/xsu6to8/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/xsu6to8/leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/xsu6to8/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -572,6 +574,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/xsu6to8/leetcode/tree/master/0258-add-digits) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Interactive
 |  |
 | ------- |
