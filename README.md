@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/xsu6to8/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xsu6to8/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2396-strictly-palindromic-number](https://github.com/xsu6to8/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## String
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/xsu6to8/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/xsu6to8/leetcode/tree/master/0509-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2396-strictly-palindromic-number](https://github.com/xsu6to8/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 ## Bit Manipulation
 |  |
@@ -589,6 +591,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/xsu6to8/leetcode/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/xsu6to8/leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
