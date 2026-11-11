@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/xsu6to8/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/xsu6to8/leetcode/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/xsu6to8/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0598-range-addition-ii](https://github.com/xsu6to8/leetcode/tree/master/0598-range-addition-ii) |
 | [0605-can-place-flowers](https://github.com/xsu6to8/leetcode/tree/master/0605-can-place-flowers) |
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/xsu6to8/leetcode/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/xsu6to8/leetcode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/xsu6to8/leetcode/tree/master/0509-fibonacci-number) |
+| [0598-range-addition-ii](https://github.com/xsu6to8/leetcode/tree/master/0598-range-addition-ii) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2396-strictly-palindromic-number](https://github.com/xsu6to8/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
