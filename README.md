@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/xsu6to8/leetcode/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/xsu6to8/leetcode/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/xsu6to8/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xsu6to8/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/xsu6to8/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Hash Table
 |  |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/xsu6to8/leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2396-strictly-palindromic-number](https://github.com/xsu6to8/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/xsu6to8/leetcode/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/xsu6to8/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 ## Bit Manipulation
 |  |
 | ------- |
