@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0636-exclusive-time-of-functions](https://github.com/xsu6to8/leetcode/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/xsu6to8/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/xsu6to8/leetcode/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/xsu6to8/leetcode/tree/master/0661-image-smoother) |
 | [0724-find-pivot-index](https://github.com/xsu6to8/leetcode/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/xsu6to8/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/xsu6to8/leetcode/tree/master/0739-daily-temperatures) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/xsu6to8/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/xsu6to8/leetcode/tree/master/0463-island-perimeter) |
+| [0661-image-smoother](https://github.com/xsu6to8/leetcode/tree/master/0661-image-smoother) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/xsu6to8/leetcode/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Binary Search Tree
 |  |
